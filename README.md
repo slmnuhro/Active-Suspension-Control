@@ -39,7 +39,7 @@ Active-Suspension-Control-Quarter-Car/
 ```
 ---
 
-## Authors
+## Collaborators
 
 - Sven Rutgers
 - Melis Orhun
