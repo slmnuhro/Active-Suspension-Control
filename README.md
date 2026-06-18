@@ -1,15 +1,15 @@
-# Active-Suspension-Control
+# Active Suspension Control
 Final project for the course **Vehicle Dynamics and Control (RO47017)** at TU Delft.
 
 This project investigates active suspension control for a quarter-car model, comparing two advanced control strategies against a passive baseline. The goal is to improve ride comfort and road holding by minimizing body acceleration and suspension deflection while keeping tire force fluctuations low. All controllers are implemented and simulated in MATLAB.
 
 The project explores:
 
+- Quarter-car suspension modelling and road disturbance response
 - H-infinity (H∞) robust control
 - µ-synthesis for robustness against model uncertainty
-- Model Predictive Control (MPC)
 - Linear-Quadratic Regulator (LQR) as a reference controller
-- Quarter-car suspension modelling and road disturbance response
+- Model Predictive Control (MPC)
 
 ## Project Overview
 
